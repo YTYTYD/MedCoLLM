@@ -1,5 +1,5 @@
-# MedCoLLM: Collaboration Between Physicians and Large Language Models in Cancer Pain Medication Decision-Making
-
+# MedCoLLM
+ MedCoLLM: Collaboration Between Physicians and Large Language Models in Cancer Pain Medication Decision-Making
 
 - **Lora Configuration**: `MedCoLLM/LLaMA-Factory/examples/train_nscale`  
 
