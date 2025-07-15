@@ -1,0 +1,5 @@
+cache_dir: null
+lang: zh
+last_model: DeepSeek-R1-70B-Distill
+path_dict:
+  DeepSeek-R1-70B-Distill: /root/autodl-tmp/deepseek1
