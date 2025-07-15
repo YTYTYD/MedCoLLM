@@ -1,23 +1,11 @@
 # MedCoLLM: Collaboration Between Physicians and Large Language Models in Cancer Pain Medication Decision-Making
 
 
-##  Lora Configuration
+- **Lora Configuration**: `MedCoLLM/LLaMA-Factory/examples/train_nscale`  
 
-- **Directory**: `MedCoLLM/LLaMA-Factory/examples/train_nscale`  
-  Contains the configuration files required for LoRA fine-tuning.
+- **Distributed Training Configuration**: `MedCoLLM/examples/deepspeed/ds_z3_config.json`  
 
-## Distributed Training Configuration
+- **Sample Datae**: `MedCoLLM/DATA/Data(sample).csv`  
 
-- **File**: `MedCoLLM/examples/deepspeed/ds_z3_config.json`  
-  Uses ZeRO Stage 3 configuration for distributed training with DeepSpeed.
+- **Simple Test Lora**: `MedCoLLM/LLaMA-Factory/tests/test1.py`  
 
-##  Sample Data
-
-- **File**: `MedCoLLM/DATA/Data(sample).csv`  
-  A sample data file for testing or training purposes.
-
-
-## Simple Test Lora
-
-- **Path**: `MedCoLLM/LLaMA-Factory/tests/test1.py`  
-  This script is used for simple model loading and inference tests.
