@@ -5,7 +5,7 @@
 
 - **Distributed Training Configuration**: `MedCoLLM/examples/deepspeed/ds_z3_config.json`  
 
-- **Sample Datae**: `MedCoLLM/DATA/Data(sample).csv`  
+- **Sample Data**: `MedCoLLM/DATA/Data(sample).csv`  
 
 - **Simple Test Lora**: `MedCoLLM/LLaMA-Factory/tests/test1.py`  
 
